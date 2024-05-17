@@ -1,0 +1,15 @@
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\bin\Debug\exe2_tpc.exe.config
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\bin\Debug\exe2_tpc.exe
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\bin\Debug\exe2_tpc.pdb
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.csproj.AssemblyReference.cache
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\MainWindow.g.cs
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\App.g.cs
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc_MarkupCompile.cache
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc_MarkupCompile.lref
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\MainWindow.baml
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.g.resources
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.Properties.Resources.resources
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.csproj.GenerateResource.cache
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.csproj.CoreCompileInputs.cache
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.exe
+D:\Prog Multiplataforma\exe2_tpc\exe2_tpc\obj\Debug\exe2_tpc.pdb
