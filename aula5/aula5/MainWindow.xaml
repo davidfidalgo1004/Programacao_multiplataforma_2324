@@ -1,0 +1,26 @@
+﻿<Window x:Class="aula5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:aula5"
+        mc:Ignorable="d"
+        Title="Listar Figuras" Height="227" Width="363">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width="97*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Margin="0,0,0,162" Grid.ColumnSpan="2">
+            <MenuItem Header="Figura" Height="20" Width="64">
+                <MenuItem Header="Adicionar"/>
+            </MenuItem>
+        </Menu>
+        <ListBox x:Name="lbFiguras"  Margin="10,85,211,61" Grid.ColumnSpan="2"/>
+        <Label Content="Figuras" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.014,0.567"/>
+        <StatusBar Margin="0,168,0,0" Grid.ColumnSpan="2">
+            <StatusBarItem x:Name="sbiDimensoes" Content="Largura:?   Altura:?" Height="66" VerticalAlignment="Center"/>
+        </StatusBar>
+
+    </Grid>
+</Window>

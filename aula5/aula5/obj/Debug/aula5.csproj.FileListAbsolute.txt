@@ -1,0 +1,15 @@
+D:\Prog Multiplataforma\aula5\aula5\bin\Debug\aula5.exe.config
+D:\Prog Multiplataforma\aula5\aula5\bin\Debug\aula5.exe
+D:\Prog Multiplataforma\aula5\aula5\bin\Debug\aula5.pdb
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.csproj.AssemblyReference.cache
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\MainWindow.g.cs
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\App.g.cs
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5_MarkupCompile.cache
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5_MarkupCompile.lref
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\MainWindow.baml
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.g.resources
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.Properties.Resources.resources
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.csproj.GenerateResource.cache
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.csproj.CoreCompileInputs.cache
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.exe
+D:\Prog Multiplataforma\aula5\aula5\obj\Debug\aula5.pdb
