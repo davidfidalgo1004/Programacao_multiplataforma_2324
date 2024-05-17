@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\App.g.cs
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10_MarkupCompile.cache
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10_MarkupCompile.lref
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\bin\Debug\aula 10.exe.config
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\bin\Debug\aula 10.exe
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\bin\Debug\aula 10.pdb
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10.g.resources
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula_10.Properties.Resources.resources
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10.exe
+C:\Users\david\Desktop\Prog Multiplataforma\aula 10\aula 10\obj\Debug\aula 10.pdb
